@@ -24,6 +24,7 @@ const eslintConfig = [
       'react-hooks/rules-of-hooks': 'error',
       // "no-unused-vars": "warn",
       '@typescript-eslint/no-unused-vars': 'warn',
+      "react/no-unescaped-entities": "off" ,
       'unicorn/filename-case': [
         'error',
         {
